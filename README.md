@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and 've been learning React, Next js & Gatsby
+- ⭐️ &nbsp; Exploring new technologies and 've been learning React, Next js & Gatsby
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -13,5 +13,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manitu85&layout=compact" />
 </a>
 
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
