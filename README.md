@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ⭐️ &nbsp; Exploring new technologies and 've been learning React, Next js & Gatsby
--  **Hobbies :** Articles & Music :headphones:
+-  **Currently :** Exploring new technologies and 've been learning React, Next js & Gatsby :star:
+-  **Hobbies :** Yoga & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
