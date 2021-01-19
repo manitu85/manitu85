@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and has been learning React.
+- 🤔 &nbsp; Exploring new technologies and 've been learning React, Next js & Gatsby
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
