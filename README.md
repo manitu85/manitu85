@@ -1,12 +1,11 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Alex Burke.</h2>
+<h2> Hello world! I'm Alex Burke.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -  **Currently :** Exploring new technologies and 've been learning React, Next js & Gatsby :star:
 -  **Hobbies :** Yoga & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
+-  **Mindset :** First solve the problem, then write the code :heart: 
+-  **Funfact :** Child at heart tall 202cm (**i see the world as magical**) :sparkles: 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
