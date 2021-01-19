@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alex Burke from Belgrade, Serbia. 👋
 
 <!--
 **manitu85/manitu85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
