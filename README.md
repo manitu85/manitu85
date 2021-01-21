@@ -5,7 +5,7 @@
 -  **Currently :** Exploring new technologies and 've been learning React, Next js & Gatsby :star:
 -  **Hobbies :** Yoga & Music :headphones:
 -  **Mindset :** First solve the problem, then write the code :heart: 
--  **Funfact :** Child at heart tall 202cm (**i see the world as magical**) :sparkles: 
+-  **Funfact :** Tall 202cm (**i see the world as magical**) :sparkles: 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
