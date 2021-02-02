@@ -9,7 +9,12 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h4>
 
-- **HTML & Css**
+- **HTML & CSS**
+- **React, React Router, Redux**
+- **Next js SCG, SSR, ISR**
+- **Gatsby, GraphQL**
+- **Framer Motion**
+- **Figma, Adobe XD**
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
