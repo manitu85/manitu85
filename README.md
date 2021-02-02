@@ -13,7 +13,10 @@
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
 - **Gatsby, GraphQL**
+- **Headless CMS**
+- **Styled Components * Theme UI**
 - **Framer Motion**
+- **Vercel * Netlify * Heroku**
 - **Figma, Adobe XD**
 
 <a href="https://github.com/AVS1508">
