@@ -11,7 +11,7 @@
 
 - **HTML & CSS**
 - **React, React Router, Redux**
-- **Next js SCG, SSR, ISR**
+- **Next js SSG, SSR, ISR**
 - **Gatsby, GraphQL**
 - **Framer Motion**
 - **Figma, Adobe XD**
