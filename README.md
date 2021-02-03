@@ -14,7 +14,7 @@
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
 - **Gatsby, GraphQL**
-- **Headless CMS**
+- **Headless CMS - Contentful - Sanity - Strapi **
 - **Styled Components - Styled System - Theme UI**
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
