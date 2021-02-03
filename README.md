@@ -10,6 +10,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h4>
 
 - **HTML & CSS**
+- **JavaScript**
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
 - **Gatsby, GraphQL**
