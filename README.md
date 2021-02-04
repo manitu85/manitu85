@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--  **Currently :** Exploring new technologies and 've been learning React, Next js & Gatsby :star:
+-  **Currently :** I've been learning React, Next js & Gatsby and exploring new technologies :star:
 -  **Hobbies :** Yoga & Music :headphones:
 -  **Mindset :** First solve the problem, then write the code :heart: 
 -  **Funfact :** Tall 202cm (**i see the world as magical**) :sparkles: 
