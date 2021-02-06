@@ -15,7 +15,8 @@
 - **Next js SSG, SSR, ISR**
 - **Gatsby, GraphQL**
 - **Headless CMS: Contentful - Sanity CMS - Strapi**
-- **Styled Components - Styled System - Theme UI**
+- **Styled Components - Styled System - Polished js**
+- **Theme UI - Chakra UI**
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
 - **Figma, Adobe XD**
