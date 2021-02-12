@@ -1,4 +1,4 @@
-<h2> Hello world! I'm Alex Burke.</h2>
+<h2> Hello world! I am Alex Burke.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
