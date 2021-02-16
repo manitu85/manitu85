@@ -1,8 +1,6 @@
 <h2> Hello world! I am Alex Burke.</h2>
 
 <img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
-<img src="https://img.shields.io/github/followers/manitu85">
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
