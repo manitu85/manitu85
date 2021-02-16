@@ -25,10 +25,6 @@
 - **Vercel - Netlify - Heroku**
 - **Figma, Adobe XD**
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
-</a><br>
-
 
 <p align="left">					    
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
@@ -38,6 +34,10 @@
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu"></a>
 </p>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
+</a>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
