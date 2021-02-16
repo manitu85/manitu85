@@ -81,7 +81,7 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 
-### 💖 Thanks for visiting 
+### 💖 Thanks for visiting ✨
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
 <img src="https://madewithlove.now.sh/rs?colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia">
