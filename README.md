@@ -5,8 +5,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
--  **Professional Studies :** Professional Master, HR Specialis. Faculty of Organizational Sciences. :school: 
 -  **Currently :** I've been learning React & Next js... I'm always curious to learn cutting edge technology. A bit enthusiast towards web development. :star:  
+-  **Professional Studies :** Professional Master, HR Specialis. Faculty of Organizational Sciences. :school: 
 -  **Mindset :** First solve the problem, then write the code. :heart: 
 -  **Hobbies :** Reading, Yoga & Music. :headphones:
 -  **Funfact :** Tall 202cm. (**i see the world as magical**) :sparkles: 
