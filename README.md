@@ -60,6 +60,11 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
 
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
+
+
+
 
 
 
