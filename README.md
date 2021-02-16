@@ -17,7 +17,7 @@
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
 -  **Mindset :** First solve the problem, then write the code. :heart: 
 -  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart: 
--  **Hobbies :** Reading, Yoga & Music. :headphones:
+-  **Hobbies :** Reading, Programing, Yoga & Music. :headphones:
 -  **Funfact :** Tall 202cm. (**i see the world as magical**) :sparkles: 
 
 ### ⚡ &nbsp;Tech Stack Preference
