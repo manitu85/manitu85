@@ -5,11 +5,6 @@
 <a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat&logo=gmail"></a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
-<img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-left:10px" />
-</p>
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 💻 &nbsp;About Me </h3>
@@ -58,6 +53,11 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
+<img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-left:10px" />
 </p>
 
 
