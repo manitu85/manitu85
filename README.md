@@ -7,7 +7,7 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
-<img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-left:10px" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -36,7 +36,7 @@
 - **Figma, Adobe XD**
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&color=orange&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
 </a>
 
 
