@@ -5,6 +5,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
+-  **Professional Studies :** Faculty of Organizational Sciences, Professional Master degree , HR Specialis :education: 
 -  **Currently :** I've been learning React & Next js... I'm always curious to learn cutting edge technology. A bit enthusiast towards web development. :star:
 -  **Professional Studies :** Faculty of Organizational Sciences, Professional Master degree , HR Specialist 🎓 
 -  **Mindset :** First solve the problem, then write the code :heart: 
