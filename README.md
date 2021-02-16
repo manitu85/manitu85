@@ -30,6 +30,11 @@
 - **Vercel - Netlify - Heroku**
 - **Figma, Adobe XD**
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
+<img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-left:10px" />
+</p>
+
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&theme=orange" />
 </a>
@@ -55,10 +60,6 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
-<img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-left:10px" />
-</p>
 
 
 
