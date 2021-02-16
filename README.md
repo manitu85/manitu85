@@ -63,7 +63,7 @@
 ### 💖 Thanks for visiting 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
-<p align="left">
+<p align="align='right'">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
