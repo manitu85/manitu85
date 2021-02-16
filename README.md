@@ -36,11 +36,11 @@
 - **Figma, Adobe XD**
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&theme=orange" />
 </a>
 
 
-<h3> 🛠 &nbsp;Other tools</h4> 
+<h3> 🛠 &nbsp;Other Tools</h4> 
 
 <p align="left" />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
