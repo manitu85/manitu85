@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## 👋🏽, Hello world! I'm Alex Burke.
 <p align="left">
