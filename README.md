@@ -59,7 +59,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
 
-<h3>:heart: &nbsp;Other Tools</h3> 
+<h3> 💖 &nbsp; Thanks For Visiting</h3> 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
 
