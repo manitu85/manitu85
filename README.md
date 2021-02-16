@@ -62,6 +62,9 @@
 <h3> 💖 &nbsp; Thanks For Visiting</h3> 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
+#### 💖 Thanks for visiting 
+![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
+
 
 
 
