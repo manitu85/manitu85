@@ -1,4 +1,4 @@
-<h2> Hello world! I am Alex Burke.</h2>
+## Hello world! I am Alex Burke.
 <p align="left">
 <a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yourlinkedin-orange?style=flat&logo=linkedin"></a>
@@ -7,7 +7,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 💻 &nbsp;About Me </h3>
+### 💻 &nbsp;About Me 
 
 -  **Currently :** I've been learning React & Next js... I'm always curious to learn cutting edge technology. A bit enthusiast towards web development. :star:  
 -  **Professional Studies :** Professional Master in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
@@ -15,7 +15,7 @@
 -  **Hobbies :** Reading, Yoga & Music. :headphones:
 -  **Funfact :** Tall 202cm. (**i see the world as magical**) :sparkles: 
 
-<h3> 🛠 &nbsp;Tech Stack Preference</h3> 
+### 🛠 &nbsp;Tech Stack Preference
 
 - **HTML & CSS**
 - **JavaScript**
@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=202020" />
 </a>
 
-<h3> 🛠 &nbsp;Other Tools</h3> 
+### 🛠 &nbsp;Other Tools
 
 <p align="left" />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -58,9 +58,6 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
-
-<h3> 💖 &nbsp; Thanks For Visiting</h3> 
-(https://profile-counter.glitch.me/manitu85/count.svg)
 
 ### 💖 Thanks for visiting 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
