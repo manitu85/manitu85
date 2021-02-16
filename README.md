@@ -1,9 +1,9 @@
+<h2> Hello world! I am Alex Burke.</h2>
 <p align="left">
 <a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yourlinkedin-orange?style=flat&logo=linkedin"></a>
 <a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat&logo=gmail"></a>
 </p>
-<h2> Hello world! I am Alex Burke.</h2>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
