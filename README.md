@@ -15,7 +15,7 @@
 -  **Hobbies :** Reading, Yoga & Music. :headphones:
 -  **Funfact :** Tall 202cm. (**i see the world as magical**) :sparkles: 
 
-<h3> 🛠 &nbsp;Tech Stack Preference</h4> 
+<h3> 🛠 &nbsp;Tech Stack Preference</h3> 
 
 - **HTML & CSS**
 - **JavaScript**
@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=202020" />
 </a>
 
-<h3> 🛠 &nbsp;Other Tools</h4> 
+<h3> 🛠 &nbsp;Other Tools</h3> 
 
 <p align="left" />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -59,7 +59,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
 
-#### Thanks for visiting :heart:
+<h3>:heart: &nbsp;Other Tools</h3> 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
 
