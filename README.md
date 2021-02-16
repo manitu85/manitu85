@@ -9,7 +9,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;Little More About Me
 
 -  **Currently :** I've been learning React & Next js... I'm always curious to learn cutting edge technology. A bit enthusiast towards web development. :star:  
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
