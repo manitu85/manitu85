@@ -14,6 +14,7 @@
 -  **Currently :** I've been learning React & Next js... I'm always curious to learn cutting edge technology. A bit enthusiast towards web development. :star:  
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
 -  **Mindset :** First solve the problem, then write the code. :heart: 
+-  -**Life Hack :** "Explore :fire: and Explode :bomb: with knowledge". :dart: 
 -  **Hobbies :** Reading, Yoga & Music. :headphones:
 -  **Funfact :** Tall 202cm. (**i see the world as magical**) :sparkles: 
 
