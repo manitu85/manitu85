@@ -37,11 +37,11 @@
 
 <!-- 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=21262d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=21262d" 002b19 />
 </a> -->
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=21262d" />
 </a>
 
 ### 🛠 &nbsp;Other Tools
