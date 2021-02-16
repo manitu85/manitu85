@@ -78,7 +78,7 @@
 ### 💖 Thanks for visiting 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
-![Made with love in Serbia](https://img.shields.io/badge/SR-SERBIA-blue)
+<img src="https://madewithlove.now.sh/rs?colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia">
 
 <!-- 
 <img align='center' src="https://img.shields.io/badge/SR-SERBIA-blue" width="20%">
