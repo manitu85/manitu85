@@ -1,7 +1,5 @@
 <h2> Hello world! I am Alex Burke.</h2>
 
-<img src="https://komarev.com/ghpvc/?username=manitu85" alt="manitu85" />
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -  **Currently :** I've been learning React & Next js and exploring new technologies :star:
@@ -18,7 +16,8 @@
 - **Gatsby, GraphQL**
 - **Headless CMS: Contentful - Sanity CMS - Strapi**
 - **Styled Components - Styled System - Polished js**
-- **Theme UI - Chakra UI - Material UI**
+- **Theme UI - Chakra UI**
+- **Material UI - Reactstrap**
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
 - **Figma, Adobe XD**
@@ -26,4 +25,6 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=manitu85" alt="manitu85" />
 
