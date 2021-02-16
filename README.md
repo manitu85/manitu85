@@ -29,6 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
 </a>
 
+<br>
 <p align="left">					    
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
  <a href="https://github.com/manitu85">
@@ -40,7 +41,7 @@
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-</p><br>
+</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
