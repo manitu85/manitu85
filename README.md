@@ -18,7 +18,7 @@
 -  **Hobbies :** Reading, Yoga & Music. :headphones:
 -  **Funfact :** Tall 202cm. (**i see the world as magical**) :sparkles: 
 
-<h3> 🛠 &nbsp;Tech Stack</h4>
+<h3> 🛠 &nbsp;Tech Stack Preference</h4> 
 
 - **HTML & CSS**
 - **JavaScript**
