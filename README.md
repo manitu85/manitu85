@@ -1,6 +1,6 @@
 <p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## 👋🏽, Hello world! I'm Alex Burke.
+## 👋🏽 👋 Hello world! I'm Alex Burke.
 <p align="left">
 <a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yourlinkedin-orange?style=flat&logo=linkedin"></a>
