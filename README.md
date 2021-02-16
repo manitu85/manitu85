@@ -78,6 +78,8 @@
 ### 💖 Thanks for visiting 
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
+![Made with love in Serbia](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 <!-- 
 <img align='center' src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 -->
