@@ -1,3 +1,11 @@
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yourlinkedin-orange?style=flat&logo=linkedin"></a>
+<a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat&logo=gmail"></a>
+</p>
+
 <h2> Hello world! I am Alex Burke.</h2>
 
 <img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
@@ -26,6 +34,9 @@
 - **Vercel - Netlify - Heroku**
 - **Figma, Adobe XD**
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
+</a>
 
 <p align="left">					    
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
@@ -36,17 +47,9 @@
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu"></a>
 </p>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
-</a>
 
-<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="left">
-<a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yourlinkedin-orange?style=flat&logo=linkedin"></a>
-<a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat&logo=gmail"></a>
-</p>
+
 
 
 
