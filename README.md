@@ -60,11 +60,11 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
 
-<p>
-  ### 💖 Thanks for visiting 
-  ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
-  <img align='right' src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
+### 💖 Thanks for visiting 
+![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
+
+<img align='right' src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
 
 
 
