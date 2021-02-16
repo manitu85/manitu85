@@ -36,7 +36,7 @@
 - **Figma, Adobe XD**
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&color=orange&show_icons=true" />
 </a>
 
 
