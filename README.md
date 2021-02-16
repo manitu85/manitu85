@@ -1,7 +1,5 @@
 <p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
-
 ## 👋🏽, Hello world! I'm Alex Burke.
 <p align="left">
 <a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat&logo=google-chrome"></a>
@@ -93,6 +91,7 @@
 </p> 
 -->
 
+<!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
 
 
