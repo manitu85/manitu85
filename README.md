@@ -27,9 +27,8 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true" />
-</a>
+</a><br>
 
-<br>
 <p align="left">					    
 <a href="https://github.com/manitu85"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
  <a href="https://github.com/manitu85">
