@@ -44,7 +44,7 @@
 </a> -->
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=21262d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=8E2DE2&icon_color=03fc90&text_color=03fc90&bg_color=21262d" />
 </a>
 
 ### 🛠 &nbsp;Tools and Frameworks
