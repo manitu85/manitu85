@@ -1,5 +1,7 @@
 <h2> Hello world! I am Alex Burke.</h2>
 
+<img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -  **Currently :** I've been learning React & Next js and exploring new technologies :star:
@@ -27,5 +29,5 @@
 </a>
 
 
-<img src="https://komarev.com/ghpvc/?username=manitu85" alt="manitu85" />
+
 
