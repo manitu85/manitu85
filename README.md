@@ -19,7 +19,7 @@
 
 ### ⚡ &nbsp;Tech Stack Preference
 
-- **HTML & CSS**
+- HTML & CSS
 - **JavaScript**
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
