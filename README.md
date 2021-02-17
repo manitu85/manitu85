@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat-square">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat-square">
-<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray">
+<img src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack&logoColor=gray">
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown">
 <img src="https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=FFFFFF">
@@ -74,7 +74,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu">
-<img src="http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Abode%20XD-e535ab?style=flat-square&logo=adobe-XD&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff">
 </p>
 
