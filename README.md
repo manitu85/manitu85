@@ -58,9 +58,9 @@
 <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux">
 <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat-square&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat-square">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat-square">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat-square">
 <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray">
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown">
