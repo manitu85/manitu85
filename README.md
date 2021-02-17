@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=fla-squaret&logo=gitlab&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-squaret&logo=gitlab&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Jira-222222?style=flat-square&logo=jira-software&logoColor=white&logoColor=0052CC">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify">
