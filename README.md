@@ -74,16 +74,19 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu">
+<img src="http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff">
 </p>
-
-![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
-
 
 ### 💖 Thanks for visiting ✨
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
 <img src="https://madewithlove.now.sh/rs?heart=true&colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia">
+
+<!--
+![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+-->
 
 <!-- <img src="https://madewithlove.now.sh/rs?colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia"> -->
 
