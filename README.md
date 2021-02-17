@@ -78,7 +78,7 @@
 <img src="http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff">
 </p>
 
-### 💖 Thanks for visiting ✨
+### 💖 Thanks for visiting
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
 <img src="https://madewithlove.now.sh/rs?heart=true&colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia">
