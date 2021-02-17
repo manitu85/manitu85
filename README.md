@@ -75,10 +75,9 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu">
 </p>
-
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+
 
 
 ### 💖 Thanks for visiting ✨
