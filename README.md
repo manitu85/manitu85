@@ -13,10 +13,9 @@
 
 -  **Currently :** I've been learning React & Next js... I'm always curious to learn cutting edge technology. A bit enthusiast towards JAMStuck development. :star:  
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
--  **Mindset :** First solve the problem, then write the code. :heart: 
+-  **Mindset :** A good code is like a story, not a puzzle. First solve the problem, then write the code. :sparkles: 
 -  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart: 
 -  **Hobbies :** Reading, Programing & Music. :headphones:
--  **Funfact :** A good code is like a story, not a puzzle. :sparkles: 
 
 ### ⚡ &nbsp;Tech Stack Preference
 
