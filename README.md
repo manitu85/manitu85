@@ -30,7 +30,7 @@
 - **Material UI - Reactstrap**
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
-- **Figma, Adobe XD**
+- **Figma**
 
 <!-- <p>
 <img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
