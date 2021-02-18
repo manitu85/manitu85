@@ -27,7 +27,7 @@
 - **Headless CMS: Contentful - Sanity CMS - Strapi**
 - **Styled Components - Styled System - Polished js**
 - **Theme UI - Chakra UI**
-- **Material UI - Reactstrap**
+<!-- - **Material UI - Reactstrap** -->
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
 - **Figma**
