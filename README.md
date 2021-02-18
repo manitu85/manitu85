@@ -27,7 +27,6 @@
 - **Headless CMS: Contentful - Sanity CMS - Strapi**
 - **Styled Components - Styled System - Polished js**
 - **Theme UI - Chakra UI**
-<!-- - **Material UI - Reactstrap** -->
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
 - **Figma**
@@ -103,6 +102,7 @@
 <!-- <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
 
 
+<!-- - **Material UI - Reactstrap** -->
 
 
 
