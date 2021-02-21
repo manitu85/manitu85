@@ -1,12 +1,13 @@
 <p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## 👋 Hello world! I'm Alex Burke.
+<!--
 <p align="left">
 <a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yourlinkedin-orange?style=flat-square&logo=linkedin"></a>
 <a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
-
+-->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 💻 &nbsp;More About Me
