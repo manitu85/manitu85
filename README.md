@@ -51,7 +51,6 @@
 <p align="left" />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00c8ff">
@@ -94,6 +93,10 @@
 <p align='right'>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p> 
+-->
+
+<!-- 
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
 -->
 
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
