@@ -8,10 +8,12 @@
 <a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 -->
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ### 💻 &nbsp;More About Me
