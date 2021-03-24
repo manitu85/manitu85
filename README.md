@@ -32,7 +32,7 @@
 - **Gatsby, GraphQL**
 - **Headless CMS: Contentful - Sanity CMS - Strapi**
 - **Styled Components - Styled System - Polished js**
-- **Theme UI - Chakra UI**
+- **Chakra UI - Theme UI**
 - **Framer Motion**
 - **Vercel - Netlify - Heroku**
 - **Figma**
