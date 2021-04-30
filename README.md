@@ -51,7 +51,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=21262d" />
 </a>
 
-### 🛠 &nbsp;Tools and Frameworks
+<!-- ### 🛠 &nbsp;Tools and Frameworks I've been working -->
+### 🛠 &nbsp; Tools and Frameworks I've been worked with
 
 <p align="left" />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
