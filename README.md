@@ -8,23 +8,19 @@
 <a href="mailto:yourmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yourmail@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
 
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 -->
 
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ****
 
-
-
 ### 💻 &nbsp;More About Me
 
--  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A bit enthusiast towards    JAMstuck development. :star:  
+-  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A bit enthusiast towards    JAMstuck development. :star:
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
--  **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles: 
--  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart: 
+-  **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles:
+-  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart:
 -  **Hobbies :** Reading, Programing & Music. :headphones:
 
 ### ⚡ &nbsp;Tech Stack Preference
@@ -46,7 +42,7 @@
 <img src="https://img.shields.io/github/followers/manitu85?label=Follow" style=" float:left, margin-left:10px" />
 </p> -->
 
-<!-- 
+<!--
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manitu85&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=21262d" 002b19 />
 </a> -->
@@ -59,7 +55,7 @@
 ### 🛠 &nbsp; Tools and Frameworks I've been worked with
 
 <p align="left" />
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff">
@@ -99,13 +95,13 @@
 
 <!-- <img src="https://madewithlove.now.sh/rs?colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia"> -->
 
-<!-- 
+<!--
 <p align='right'>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p> 
+</p>
 -->
 
-<!-- 
+<!--
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
 -->
 
@@ -117,7 +113,3 @@
 
 
 <!-- - **Material UI - Reactstrap** -->
-
-
-
-
