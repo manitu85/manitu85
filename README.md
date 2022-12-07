@@ -29,13 +29,14 @@
 - **JavaScript**
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
-- **Gatsby, GraphQL**
-- **Headless CMS: Contentful - Sanity CMS - Strapi**
-- **Styled Components - Styled System - Polished js**
+- **Headless CMS: Contentful - Sanity CMS - Strapi = MDX**
+- **Styled Components - Emotion - Tailwindcss**
 - **Chakra UI - Theme UI**
 - **Framer Motion**
-- **Vercel - Netlify - Heroku**
+- **Vercel - Netlify - Heroku - Render**
 - **Figma**
+
+<!-- - **Gatsby, GraphQL** -->
 
 <!-- <p>
 <img src="https://komarev.com/ghpvc/?username=manitu85&color=orange" alt="manitu85" />
