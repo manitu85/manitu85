@@ -29,7 +29,7 @@
 - **JavaScript**
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
-- **Headless CMS: Contentful - Sanity CMS - Strapi = MDX**
+- **Headless CMS: Contentful - Sanity CMS - Strapi - MDX**
 - **Styled Components - Emotion - Tailwindcss**
 - **Chakra UI - Theme UI**
 - **Framer Motion**
