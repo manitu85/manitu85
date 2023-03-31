@@ -30,8 +30,8 @@
 - **React, React Router, Redux**
 - **Next js SSG, SSR, ISR**
 - **Headless CMS: Sanity CMS - Strapi - MDX**
-- **Styled Components - Emotion - Tailwindcss**
-- **Chakra UI - Theme UI**
+- **Chakra UI - Material UI - Tailwindcss**
+- **Styled Components - Emotion **
 - **Framer Motion**
 - **Vercel - Netlify - Heroku - Render**
 - **Figma**
