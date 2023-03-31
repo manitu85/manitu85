@@ -31,7 +31,7 @@
 - **Next js SSG, SSR, ISR**
 - **Headless CMS: Sanity CMS - Strapi - MDX**
 - **Chakra UI - Material UI - Tailwindcss**
-- **Styled Components - Emotion **
+- **Styled Components - Emotion**
 - **Framer Motion**
 - **Vercel - Netlify - Heroku - Render**
 - **Figma**
