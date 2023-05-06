@@ -15,7 +15,7 @@
 
 ### 💻 &nbsp;More About Me
 
--  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A bit enthusiast towards JAMstuck development and AI apps recently. :star:
+-  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A little bit enthusiast towards JAMstuck development and AI apps recently. :star:
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
 -  **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles:
 -  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart:
