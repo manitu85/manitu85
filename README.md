@@ -11,13 +11,11 @@
 
 -->
 
-
-
 ****
 
 ### 💻 &nbsp;More About Me
 
--  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A bit enthusiast towards    JAMstuck development. :star:
+-  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A bit enthusiast towards JAMstuck development and AI apps recently. :star:
 -  **Studies :** Professional Master degree in Human Resources. Faculty of Organizational Sciences, University of Belgrade 🎓
 -  **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles:
 -  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart:
@@ -89,11 +87,6 @@
 
 <img src="https://madewithlove.now.sh/rs?heart=true&colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia">
 
-<!--
-![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
--->
-
 <!-- <img src="https://madewithlove.now.sh/rs?colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia"> -->
 
 <!--
@@ -102,15 +95,4 @@
 </p>
 -->
 
-<!--
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
--->
-
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
-
-
-
-<!-- <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
-
-
-<!-- - **Material UI - Reactstrap** -->
