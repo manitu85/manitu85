@@ -31,7 +31,7 @@
 - **Chakra UI - Material UI - Tailwindcss**
 - **Styled Components - Emotion**
 - **Framer Motion**
-- **Vercel - Netlify - Heroku - Render**
+- **Vercel - Netlify - Render**
 - **Figma**
 
 <!-- - **Gatsby, GraphQL** -->
