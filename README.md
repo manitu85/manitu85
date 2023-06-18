@@ -1,6 +1,7 @@
 <p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## 👋 Hello world! I'm Alex Burke.
+
 <!--
 <p align="left">
 <a href="https://www.yoursite.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.yoursite.vercel.app-orange?style=flat-square&logo=google-chrome"></a>
@@ -11,15 +12,15 @@
 
 -->
 
-****
+---
 
 ### 💻 &nbsp;More About Me
 
--  **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A little bit enthusiast towards JAMstuck development and AI apps recently. :star:
--  **Studies :** MSc in human resources, Faculty of Organizational Sciences, University of Belgrade 🎓
--  **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles:
--  **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self."  Adlous Huxley :dart:
--  **Hobbies :** Reading, Programing & Music. :headphones:
+- **Currently :** I've been learning React & Next js ecosystem. Also I am always curious to learn more about cutting edge technology. A little bit enthusiast towards JAMstuck development and AI apps recently. :star:
+- **Studies :** MSc in Human Resource Management (HRM), Faculty of Organizational Sciences, University of Belgrade 🎓
+- **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles:
+- **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self." Adlous Huxley :dart:
+- **Hobbies :** Reading, Programing & Music. :headphones:
 
 ### ⚡ &nbsp;Tech Stack Preference
 
@@ -51,6 +52,7 @@
 </a> -->
 
 <!-- ### 🛠 &nbsp;Tools and Frameworks I've been working -->
+
 ### 🛠 &nbsp; Tools and Frameworks I've been worked with
 
 <p align="left" />
@@ -83,6 +85,7 @@
 </p>
 
 ### 💖 Thanks for visiting
+
 ![VisitorCount](https://profile-counter.glitch.me/manitu85/count.svg)
 
 <img src="https://madewithlove.now.sh/rs?heart=true&colorA=%23c6363c&colorB=%230c4076" alt="Made with love in Serbia">
