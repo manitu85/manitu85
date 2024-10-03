@@ -20,7 +20,7 @@
 - **Studies :** MSc in Human Resource Management (HRM), Faculty of Organizational Sciences, University of Belgrade 🎓
 - **Mindset :** A good code structure is like a story, not a puzzle. First solve the problem, after write the code, then refactor. :sparkles:
 - **Life Hack :** "There is only one corner of the universe you can be certain of improving, and that's your own self." Adlous Huxley :dart:
-- **Hobbies :** Reading, Programing & Music. :headphones:
+- **Hobbies :** Reading, Programming, AI apps & Music. :headphones:
 
 ### ⚡ &nbsp;Tech Stack Preference
 
